@@ -1,5 +1,6 @@
 import yt_dlp
 def download_video(video_url):
+    print("Downloading...")
     ydl_opts = {
         'format': 'bestvideo+bestaudio/best',  
         'outtmpl': 'D:/Videos/random.mp4', 
