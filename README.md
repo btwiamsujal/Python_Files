@@ -11,6 +11,10 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
 ### 2. **atm_pin.py**  
    - **Purpose:** It is a simple ATM pin generation function.
    - **Usage:** Provides an easy way to make a secure ATM pin.
+
+### 3. **secret_message.py**
+   - **Purpose:** Encodes and decodes messages with random character additions.
+   - **Usage:** Scrambles a message for security and restores it when needed.
      
 
 ## 🚀 Getting Started
