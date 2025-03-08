@@ -15,6 +15,10 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
 ### 3. **encoding_decoding.py**
    - **Purpose:** Encodes and decodes messages with random character additions.
    - **Usage:** Scrambles a message for security and restores it when needed.
+
+### 4. **Tic_Tac_Toe.py**
+   - **Purpose:** Bult games for fun and also too learn.
+   - **Usage:** Just to play. ☺️
      
 
 ## 🚀 Getting Started
