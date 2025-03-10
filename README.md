@@ -19,6 +19,10 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
 ### 4. **Tic_Tac_Toe.py**
    - **Purpose:** Bult games for fun and also too learn.
    - **Usage:** Just to play. ☺️
+
+### 5. **AI_based_medical_diagnosis.py**
+   - **Purpose:** Encourages learning about AI-driven medical assistance..
+   - **Usage:** Built to help users get an idea of potential illnesses based on their symptoms.
      
 
 ## 🚀 Getting Started
