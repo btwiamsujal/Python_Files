@@ -26,7 +26,7 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
      
 ### 5. **Qr_code.py**
    - **Purpose:** to generate different QR Codes..
-   - **Usage:** Built different QR codes of each sites to share.
+   - **Usage:** Built different QR codes of each sites to share as in poster or somewhere.
 
 
 ## 🚀 Getting Started
