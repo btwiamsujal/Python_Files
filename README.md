@@ -30,7 +30,7 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
 
 ### 7. **calc.py**
    - **Purpose:** it is to do maths as fun..
-   - **Usage:** It use to add calculate the sum.
+   - **Usage:** It use to calculate the problems.
 
 ## 🚀 Getting Started
 
