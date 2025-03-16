@@ -24,10 +24,13 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
    - **Purpose:** Encourages learning about AI-driven medical assistance..
    - **Usage:** Built to help users get an idea of potential illnesses based on their symptoms.
      
-### 5. **Qr_code.py**
+### 6. **Qr_code.py**
    - **Purpose:** to generate different QR Codes..
    - **Usage:** Built different QR codes of each sites to share as in poster or somewhere.
 
+### 7. **calc.py**
+   - **Purpose:** it is to do maths as fun..
+   - **Usage:** It use to add calculate the sum.
 
 ## 🚀 Getting Started
 
