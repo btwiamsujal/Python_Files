@@ -32,6 +32,10 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
    - **Purpose:** it is to do maths as fun..
    - **Usage:** It use to calculate the problems.
 
+### 7. **kbc.py**
+   - **Purpose:** it is for play a kbc game..
+   - **Usage:** Just to fun. ☺️
+
 ## 🚀 Getting Started
 
 ### Prerequisites
