@@ -36,6 +36,10 @@ Welcome to the **Python Files** repository! This repository contains various Pyt
    - **Purpose:** it is for play a kbc game..
    - **Usage:** Just to fun. ☺️
 
+### 8. **stock_fuzzy.py**
+   - **Purpose:** Implements fuzzy logic for stock trading decisions.
+   - **Usage:** Enter a stock ticker to get a BUY, SELL, or HOLD recommendation. ☺️
+
 ## 🚀 Getting Started
 
 ### Prerequisites
