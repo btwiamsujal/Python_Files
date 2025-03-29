@@ -3,7 +3,6 @@ from PIL import Image, ImageDraw
 import time
 import os
 
-
 qr = qrcode.QRCode(
     version=5, 
     error_correction=qrcode.constants.ERROR_CORRECT_H,  
