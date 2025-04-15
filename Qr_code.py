@@ -1,6 +1,6 @@
 import qrcode
 from PIL import Image, ImageDraw
-import time
+import time 
 import os
 
 qr = qrcode.QRCode(
