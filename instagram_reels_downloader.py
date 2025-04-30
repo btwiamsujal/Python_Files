@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import instaloader
 
 def download_reel(reel_url):
@@ -13,7 +13,7 @@ def download_reel(reel_url):
 if __name__ == "__main__":
     reel_url = input("Enter Instagram reel URL: ")
     download_reel(reel_url)
-=======
+
 import instaloader
 
 def download_reel(reel_url):
@@ -28,4 +28,3 @@ def download_reel(reel_url):
 if __name__ == "__main__":
     reel_url = input("Enter Instagram reel URL: ")
     download_reel(reel_url)
->>>>>>> 985d5032247e56e7b1fe74b8cd8eddf8e7487784
